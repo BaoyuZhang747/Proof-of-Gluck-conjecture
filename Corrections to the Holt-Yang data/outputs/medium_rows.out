@@ -1,0 +1,70 @@
+row 4 E3: constructing M and its faithful quotient by CT
+  maximal-solvable quotient orders [ 40, 192, 320, 1152, 1296, 1296 ]
+  irreducible inverse-image quotient orders [ 40, 192, 320, 1152, 1296, 1296 ]
+row 5 E3: constructing M and its faithful quotient by CT
+  maximal-solvable quotient orders [ 40, 192, 320, 1152, 1296, 1296 ]
+  irreducible inverse-image quotient orders [ 40, 192, 320, 1152, 1296, 1296 ]
+row 6 E3: constructing M and its faithful quotient by CT
+  maximal-solvable quotient orders [ 160, 768, 1280, 4608, 5184, 5184 ]
+  irreducible inverse-image quotient orders [ 160, 768, 1280, 4608, 5184, 5184 ]
+row 7 E3: constructing M and its faithful quotient by CT
+  maximal-solvable quotient orders [ 40, 192, 320, 1152, 1296, 1296 ]
+  irreducible inverse-image quotient orders [ 40, 192, 320, 1152, 1296, 1296 ]
+row 8 E3: constructing M and its faithful quotient by CT
+  maximal-solvable quotient orders [ 80, 384, 640, 2304, 2592, 2592 ]
+  irreducible inverse-image quotient orders [ 80, 384, 640, 2304, 2592, 2592 ]
+row 11 E+: constructing M and its faithful quotient by CT
+  maximal-solvable quotient orders [ 42, 120, 144, 168, 384, 1152 ]
+  irreducible inverse-image quotient orders [ 42, 120, 144, 168, 384, 1152 ]
+row 11 E-: constructing M and its faithful quotient by CT
+  maximal-solvable quotient orders [ 40, 192, 320, 1152, 1296, 1296 ]
+  irreducible inverse-image quotient orders [ 40, 192, 320, 1152, 1296, 1296 ]
+row 12 S: constructing M and its faithful quotient by CT
+  maximal-solvable quotient orders [ 84, 240, 1280, 2592, 2592, 2688, 3072, 4608, 9216 ]
+  irreducible inverse-image quotient orders [ 84, 240, 1280, 2592, 2592, 2688, 3072, 4608, 9216 ]
+row 13 E+: constructing M and its faithful quotient by CT
+  maximal-solvable quotient orders [ 42, 120, 144, 168, 384, 1152 ]
+  irreducible inverse-image quotient orders [ 42, 120, 144, 168, 384, 1152 ]
+row 13 E-: constructing M and its faithful quotient by CT
+  maximal-solvable quotient orders [ 40, 192, 320, 1152, 1296, 1296 ]
+  irreducible inverse-image quotient orders [ 40, 192, 320, 1152, 1296, 1296 ]
+row 14 S: constructing M and its faithful quotient by CT
+  maximal-solvable quotient orders [ 42, 120, 640, 1296, 1296, 1344, 1536, 2304, 4608 ]
+  irreducible inverse-image quotient orders [ 42, 120, 640, 1296, 1296, 1344, 1536, 2304, 4608 ]
+row 15 S: constructing M and its faithful quotient by CT
+  maximal-solvable quotient orders [ 42, 120, 640, 1296, 1296, 1344, 1536, 2304, 4608 ]
+  irreducible inverse-image quotient orders [ 42, 120, 640, 1296, 1296, 1344, 1536, 2304, 4608 ]
+row 16 E+: constructing M and its faithful quotient by CT
+  maximal-solvable quotient orders [ 42, 120, 144, 168, 384, 1152 ]
+  irreducible inverse-image quotient orders [ 42, 120, 144, 168, 384, 1152 ]
+row 16 E-: constructing M and its faithful quotient by CT
+  maximal-solvable quotient orders [ 40, 192, 320, 1152, 1296, 1296 ]
+  irreducible inverse-image quotient orders [ 40, 192, 320, 1152, 1296, 1296 ]
+row 17 S: constructing M and its faithful quotient by CT
+  maximal-solvable quotient orders [ 84, 240, 1280, 2592, 2592, 2688, 3072, 4608, 9216 ]
+  irreducible inverse-image quotient orders [ 84, 240, 1280, 2592, 2592, 2688, 3072, 4608, 9216 ]
+row 119 E+: constructing M and its faithful quotient by CT
+  maximal-solvable quotient orders [ 864, 1152, 1728, 3024 ]
+  irreducible inverse-image quotient orders [ 864, 1152, 1728 ]
+row 119 E-: constructing M and its faithful quotient by CT
+  maximal-solvable quotient orders [ 144, 192, 240, 288, 288, 320, 384, 480, 504, 576, 840, 1008 ]
+  irreducible inverse-image quotient orders [ 144, 192, 240, 288, 288, 320, 384, 480, 576 ]
+row 121 E+: constructing M and its faithful quotient by CT
+  maximal-solvable quotient orders [ 1728, 2808, 31104, 31104 ]
+  irreducible inverse-image quotient orders [ 1728, 2808 ]
+row 121 E-: constructing M and its faithful quotient by CT
+  maximal-solvable quotient orders [ 288, 468, 480, 576, 780, 936, 5184, 5184, 8640, 8640, 10368, 10368 ]
+  irreducible inverse-image quotient orders [ 288, 468, 480, 576, 780, 936 ]
+row 123 S: constructing M and its faithful quotient by CT
+  maximal-solvable quotient orders [ 640, 800, 960, 1536, 1536, 1920, 1920, 2304, 2304, 2304, 2880, 2880, 3456, 6912, 6912, 10368 ]
+  irreducible inverse-image quotient orders [ 640, 800, 960, 1536, 1536, 1920, 1920, 2304, 2304, 2304, 2880, 3456 ]
+row 124 E+: constructing M and its faithful quotient by CT
+  maximal-solvable quotient orders [ 1008, 2880, 3456, 4032, 9216, 27648 ]
+  irreducible inverse-image quotient orders [ 1008, 2880, 3456, 4032, 9216, 27648 ]
+row 124 E-: constructing M and its faithful quotient by CT
+  maximal-solvable quotient orders [ 960, 4608, 7680, 27648, 31104, 31104 ]
+  irreducible inverse-image quotient orders [ 960, 4608, 7680, 27648, 31104, 31104 ]
+row 127 E3: constructing M and its faithful quotient by CT
+  maximal-solvable quotient orders [ 480, 800, 960, 2304, 3840, 3840, 4608, 6400, 7680, 13824, 15552, 15552, 23040, 25920, 25920, 27648, 31104, 31104 ]
+  irreducible inverse-image quotient orders [ 480, 800, 2304, 3840, 3840, 6400, 13824, 15552, 15552, 23040, 25920, 25920 ]
+The seventeen medium rows are complete; every relevant subgroup lies in a checked inverse image with a regular orbit.

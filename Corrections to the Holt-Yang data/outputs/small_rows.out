@@ -1,0 +1,65 @@
+row 26 E+: constructing the semilinear normaliser
+  maximal-solvable quotient orders [ 1152 ]
+row 26 E-: constructing the semilinear normaliser
+  maximal-solvable quotient orders [ 192, 320, 384 ]
+row 27 E+: constructing the semilinear normaliser
+  maximal-solvable quotient orders [ 1152 ]
+row 27 E-: constructing the semilinear normaliser
+  maximal-solvable quotient orders [ 192, 320, 384 ]
+row 29 E+: constructing the semilinear normaliser
+  maximal-solvable quotient orders [ 3456 ]
+row 29 E-: constructing the semilinear normaliser
+  maximal-solvable quotient orders [ 576, 960, 1152 ]
+row 30 S: constructing the semilinear normaliser
+  maximal-solvable quotient orders [ 320, 768, 768, 1152 ]
+row 31 E+: constructing the semilinear normaliser
+  maximal-solvable quotient orders [ 1152 ]
+row 31 E-: constructing the semilinear normaliser
+  maximal-solvable quotient orders [ 192, 320, 384 ]
+row 32 S: constructing the semilinear normaliser
+  maximal-solvable quotient orders [ 320, 768, 768, 1152 ]
+row 33 S: constructing the semilinear normaliser
+  maximal-solvable quotient orders [ 320, 768, 768, 1152 ]
+row 34 E+: constructing the semilinear normaliser
+  maximal-solvable quotient orders [ 1152 ]
+row 34 E-: constructing the semilinear normaliser
+  maximal-solvable quotient orders [ 192, 320, 384 ]
+row 35 E+: constructing the semilinear normaliser
+  maximal-solvable quotient orders [ 1152 ]
+row 35 E-: constructing the semilinear normaliser
+  maximal-solvable quotient orders [ 192, 320, 384 ]
+row 36 S: constructing the semilinear normaliser
+  maximal-solvable quotient orders [ 640, 1536, 1536, 2304 ]
+row 37 S: constructing the semilinear normaliser
+  maximal-solvable quotient orders [ 320, 768, 768, 1152 ]
+row 38 E+: constructing the semilinear normaliser
+  maximal-solvable quotient orders [ 1152 ]
+row 38 E-: constructing the semilinear normaliser
+  maximal-solvable quotient orders [ 192, 320, 384 ]
+row 39 S: constructing the semilinear normaliser
+  maximal-solvable quotient orders [ 320, 768, 768, 1152 ]
+row 40 E+: constructing the semilinear normaliser
+  maximal-solvable quotient orders [ 1152 ]
+row 40 E-: constructing the semilinear normaliser
+  maximal-solvable quotient orders [ 192, 320, 384 ]
+row 41 E+: constructing the semilinear normaliser
+  maximal-solvable quotient orders [ 1152 ]
+row 41 E-: constructing the semilinear normaliser
+  maximal-solvable quotient orders [ 192, 320, 384 ]
+row 43 S: constructing the semilinear normaliser
+  maximal-solvable quotient orders [ 1280, 3072, 3072, 4608 ]
+row 44 S: constructing the semilinear normaliser
+  maximal-solvable quotient orders [ 640, 1536, 1536, 2304 ]
+row 54 E3: constructing the semilinear normaliser
+  maximal-solvable quotient orders [ 432 ]
+row 56 E3: constructing the semilinear normaliser
+  maximal-solvable quotient orders [ 432 ]
+row 57 E3: constructing the semilinear normaliser
+  maximal-solvable quotient orders [ 432 ]
+row 82 S: constructing the semilinear normaliser
+  maximal-solvable quotient orders [ 48 ]
+row 83 S: constructing the semilinear normaliser
+  maximal-solvable quotient orders [ 48 ]
+row 85 S: constructing the semilinear normaliser
+  maximal-solvable quotient orders [ 144 ]
+The 32 row-and-core calculations covering the remaining 23 rows are complete; every maximal-solvable inverse image has a regular orbit.

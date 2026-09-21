@@ -1,0 +1,7 @@
+The plus-type extraspecial subgroup E has order 512, and the quotient of its normaliser in GL(16,3) by E has order 348364800.
+GO+(8,2) has 19750 subgroup classes, of which 19391 are solvable.
+The quadratic-form test on invariant subspaces of E/Z(E) retains 567 classes; all 567 are irreducible and quasiprimitive.
+The 21523360 projective points form 87535 E/Z(E)-orbits; 81640 have trivial point stabiliser.
+The induced action on the E/Z(E)-orbits with trivial point stabiliser is faithful, with image order 348364800.
+Of the 567 lifts, 555 have a regular orbit and 12 do not.
+The twelve groups without a regular orbit are exactly the twelve Holt--Yang GF(3)^16 plus-type groups.

@@ -1,0 +1,56 @@
+records in the published Line22gps.g: 72
+records in the corrected Line22gps.g: 80
+retained Line22 records: 68
+records 1 to 68 of the corrected file equal the retained records, in order: true
+removed record 13 is conjugate to Line117gps record 3 by the stored verified matrix: true
+removed record 14 is conjugate to Line117gps record 1 by the stored verified matrix: true
+removed record 15 is conjugate to Line117gps record 2 by the stored verified matrix: true
+removed record 21 is conjugate to Line117gps record 9 by the stored verified matrix: true
+retained Line22 records sharing a class invariant with Line117gps.g: 0
+published records on GF(3)^8: 189
+classes in the enumerated dataset: 152
+enumerated classes whose invariant is absent from every published file: [ 103, 108, 109, 110, 111, 112, 113, 116, 117, 121, 126, 127 ]
+appended record 69 is conjugate to enumerated dataset record 103 by the stored verified matrix: true
+appended record 70 is conjugate to enumerated dataset record 121 by the stored verified matrix: true
+appended record 71 is conjugate to enumerated dataset record 109 by the stored verified matrix: true
+appended record 72 is conjugate to enumerated dataset record 127 by the stored verified matrix: true
+appended record 73 is conjugate to enumerated dataset record 113 by the stored verified matrix: true
+appended record 74 is conjugate to enumerated dataset record 112 by the stored verified matrix: true
+appended record 75 is conjugate to enumerated dataset record 111 by the stored verified matrix: true
+appended record 76 is conjugate to enumerated dataset record 116 by the stored verified matrix: true
+appended record 77 is conjugate to enumerated dataset record 126 by the stored verified matrix: true
+appended record 78 is conjugate to enumerated dataset record 117 by the stored verified matrix: true
+appended record 79 is conjugate to enumerated dataset record 110 by the stored verified matrix: true
+appended record 80 is conjugate to enumerated dataset record 108 by the stored verified matrix: true
+distinct class invariants among the 80 corrected records: 80
+corrected Line22 records sharing a class invariant with Line117gps.g: 0
+orders of the twelve appended records: [ 1152, 2304, 2304, 2304, 2304, 2304, 2304, 2304, 2304, 2304, 2304, 2304 ]
+records in the published Line19gpsp.g: 14
+records in the published Line19gpsm.g: 9
+records in the corrected Line19gpsp.g: 13
+records in the corrected Line19gpsm.g: 6
+corrected Line19gpsp equals the published file with record 14 removed: true
+corrected Line19gpsm equals the published file with records 7, 8, 9 removed: true
+Line19 identification p7 = m1 by the stored verified matrix: true
+Line19 identification p11 = m4 by the stored verified matrix: true
+Line19 identification p14 = m3 by the stored verified matrix: true
+Line19 identification m7 = p13 by the stored verified matrix: true
+Line19 identification m8 = p12 by the stored verified matrix: true
+Line19 identification m9 = p9 by the stored verified matrix: true
+every corrected Line19gpsp record has a plus-type prescribed subgroup: true
+every corrected Line19gpsm record has a minus-type prescribed subgroup: true
+removed record 14 of Line19gpsp has no plus-type prescribed subgroup: [ "minus" ]
+removed records 7, 8, 9 of Line19gpsm have no minus-type prescribed subgroup: [ [ "plus" ], [ "plus" ], [ "plus" ] ]
+the dual-type records p7 and p11 have prescribed subgroups of both types: [ [ "minus", "plus" ], [ "minus", "plus" ] ]
+distinct classes among the 23 published row-19 records: 17
+distinct classes among the 19 corrected row-19 records: 17
+the corrected row-19 files represent the same classes as the published files: true
+records in the corrected Line1gpsp.g: 12
+corrected Line1gpsp.g equals the published Line1gpsm.g record by record: true
+every Line1 group has O_2 of order 512 with the plus-type involution count 271: true
+The directory corrected_data supplies the file-level corrections established in the
+accompanying paper: Line22gps.g contains the 80 row-22 classes; Line19gpsp.g and
+Line19gpsm.g contain the records whose prescribed subgroups match the file type,
+with the two dual-type classes listed in both files; Line1gpsp.g carries the corrected
+plus-type name with unchanged records.  Every removed record is conjugate to a record
+that remains, by the stored matrices verified above.

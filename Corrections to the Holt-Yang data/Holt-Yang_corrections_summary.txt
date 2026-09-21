@@ -1,0 +1,16 @@
+Summary of corrections to the data of Holt and Yang
+
+
+The 418 groups in their files represent 356 conjugacy classes, since some classes appear in more than one file. Twelve classes on F_3^8, all belonging to row 22, are missing from their data, so the complete classification has 368 classes.
+
+Four files need corrections.
+
+Line22gps.g has 72 groups and becomes a file of 80, one for each class found by the calculation for row 22. Groups 13, 14, 15 and 21 are removed: they are conjugate to groups 3, 1, 2 and 9 of Line117gps.g and belong to row 117, not row 22. The twelve missing classes are added as groups 69 to 80 (one of order 1152 and eleven of order 2304).
+
+Group 14 of Line19gpsp.g is removed because its prescribed normal extraspecial subgroup is of minus type only. It is conjugate to group 3 of Line19gpsm.g.
+
+Line19gpsm.g loses groups 7, 8 and 9, whose prescribed subgroups are of plus type only. They are conjugate to groups 13, 12 and 9 of Line19gpsp.g. The groups in two classes contain prescribed subgroups of both types, so these classes stay in both files: group 7 of Line19gpsp.g is conjugate to group 1 of Line19gpsm.g (order 384), and group 11 of Line19gpsp.g to group 4 of Line19gpsm.g (order 192).
+
+Line1gpsm.g is renamed Line1gpsp.g with its contents unchanged, since all twelve prescribed extraspecial subgroups are of plus type. The entry for row 1 in the Note column of their Table 4.1 should therefore be E+ rather than E-.
+
+In Table 4.1 of Holt and Yang's paper, three printed counts disagree with their data, and in each case the data is right. Row 20 is given as 24, but the correct number is 22: the groups in the two extra classes contain no normal extraspecial subgroup of order 32, and they are groups 10 and 16 of Line71gps.g. Similarly, row 21 (E+) is given as 17 instead of 16, and the extra class is that of group 4 of Line74gps.g. Row 53 is given as 10, but the calculation gives exactly the three classes in Line53gps.g. After the file corrections, the counts for row 19 (E+), row 19 (E-) and row 22 become 13, 6 and 80.

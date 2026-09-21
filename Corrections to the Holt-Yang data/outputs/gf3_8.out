@@ -1,0 +1,25 @@
+The 189 Holt--Yang records represent 140 classes; together with the twelve omitted classes they give 152 classes.
+row 9+: |normal subgroup| = 128, |ambient group| = 5160960, |ambient quotient| = 40320, subgroup classes = 296, solvable subgroup classes = 268, qualifying groups = 27
+row 9-: |normal subgroup| = 128, |ambient group| = 6635520, |ambient quotient| = 51840, subgroup classes = 350, solvable subgroup classes = 331, qualifying groups = 71
+row 22: |normal subgroup| = 64, |ambient group| = 184320, |ambient quotient| = 2880, subgroup classes = 914, solvable subgroup classes = 866, qualifying groups = 80
+Row 22: 80 classes, of which 68 occur in the Holt--Yang data and twelve are omitted.
+row 75, extraspecial subgroup of order 8: |normal subgroup| = 8, |ambient group| = 2560, |ambient quotient| = 320, subgroup classes = 130, solvable subgroup classes = 130, qualifying groups = 0
+row 75, extraspecial subgroup of order 8: |normal subgroup| = 8, |ambient group| = 7680, |ambient quotient| = 960, subgroup classes = 260, solvable subgroup classes = 260, qualifying groups = 10
+row 75, full symplectic-type subgroup: |normal subgroup| = 16, |ambient group| = 7680, |ambient quotient| = 480, subgroup classes = 184, solvable subgroup classes = 184, qualifying groups = 8
+Row 75: the direct quotient over S has 8 qualifying lifts, all among the ten classes from the two extraspecial-subgroup normalisers.
+row 117+: |normal subgroup| = 32, |ambient group| = 55296, |ambient quotient| = 1728, subgroup classes = 770, solvable subgroup classes = 770, qualifying groups = 123
+row 117-: |normal subgroup| = 32, |ambient group| = 92160, |ambient quotient| = 2880, subgroup classes = 467, solvable subgroup classes = 434, qualifying groups = 19
+row 110: |normal subgroup| = 16, |ambient group| = 276480, |ambient quotient| = 17280, subgroup classes = 1560, solvable subgroup classes = 1474, qualifying groups = 41
+row 113 E+: the four maximal irreducible solvable multiplicity groups contain [ 60, 24, 21, 3 ] of the 108 IrredSol classes
+row 113 E+, multiplicity group 15: |normal subgroup| = 8, |ambient group| = 36864, |ambient quotient| = 4608, subgroup classes = 1521, solvable subgroup classes = 1521, qualifying groups = 0
+row 113 E+, multiplicity group 50: |normal subgroup| = 8, |ambient group| = 18432, |ambient quotient| = 2304, subgroup classes = 1064, solvable subgroup classes = 1064, qualifying groups = 16
+row 113 E+, multiplicity group 66: |normal subgroup| = 8, |ambient group| = 2560, |ambient quotient| = 320, subgroup classes = 130, solvable subgroup classes = 130, qualifying groups = 0
+row 113 E+, multiplicity group 74: |normal subgroup| = 8, |ambient group| = 5120, |ambient quotient| = 640, subgroup classes = 161, solvable subgroup classes = 161, qualifying groups = 2
+row 113 E-: the four maximal irreducible solvable multiplicity groups contain [ 60, 24, 21, 3 ] of the 108 IrredSol classes
+row 113 E-, multiplicity group 15: |normal subgroup| = 8, |ambient group| = 110592, |ambient quotient| = 13824, subgroup classes = 3188, solvable subgroup classes = 3188, qualifying groups = 3
+row 113 E-, multiplicity group 50: |normal subgroup| = 8, |ambient group| = 55296, |ambient quotient| = 6912, subgroup classes = 2223, solvable subgroup classes = 2223, qualifying groups = 84
+row 113 E-, multiplicity group 66: |normal subgroup| = 8, |ambient group| = 7680, |ambient quotient| = 960, subgroup classes = 260, solvable subgroup classes = 260, qualifying groups = 10
+row 113 E-, multiplicity group 74: |normal subgroup| = 8, |ambient group| = 15360, |ambient quotient| = 1920, subgroup classes = 322, solvable subgroup classes = 322, qualifying groups = 10
+Rows 110 and 113: 41, 18 and 107 qualifying full inverse images; 31 row-110 classes, 18 row-113+ classes and 82 row-113- classes.  The two row-113 calculations have 12 classes in common and 88 classes in their union.  Adjoining the row-113 calculations in the order E+, E- adds 12 and 45 classes to the row-110 classes, giving 88 classes in all.
+The nine GF(3)^8 row calculations contain exactly 152 GL(8,3)-classes.
+The Holt--Yang files contain 140 of them; the row-22 enumeration supplies the remaining twelve.

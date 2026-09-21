@@ -1,0 +1,74 @@
+Line1gpsm.g: 12 records, 12 linearly primitive; maximum order 15925248.
+Line3gps.g: 40 records, 40 linearly primitive; maximum order 559872.
+Line9gpsp.g: 27 records, 27 linearly primitive; maximum order 18432.
+Line9gpsm.g: 71 records, 71 linearly primitive; maximum order 165888.
+Line10gps.g: 22 records, 22 linearly primitive; maximum order 331776.
+Line19gpsp.g: 14 records, 14 linearly primitive; maximum order 2304.
+Line19gpsm.g: 9 records, 9 linearly primitive; maximum order 640.
+Line20gps.g: 22 records, 22 linearly primitive; maximum order 4608.
+Line21gpsp.g: 16 records, 16 linearly primitive; maximum order 6912.
+Line22gps.g: 72 records, 65 linearly primitive; maximum order 18432.
+Line23gpsp.g: 4 records, 4 linearly primitive; maximum order 11520.
+Line24gps.g: 5 records, 5 linearly primitive; maximum order 13824.
+Line25gps.g: 4 records, 4 linearly primitive; maximum order 18432.
+Line28gps.g: 3 records, 3 linearly primitive; maximum order 55296.
+Line48gps.g: 7 records, 7 linearly primitive; maximum order 1296.
+Line49gps.g: 4 records, 4 linearly primitive; maximum order 1296.
+Line50gps.g: 2 records, 2 linearly primitive; maximum order 2592.
+Line51gps.g: 8 records, 8 linearly primitive; maximum order 12960.
+Line52gps.g: 1 records, 1 linearly primitive; maximum order 3888.
+Line53gps.g: 3 records, 3 linearly primitive; maximum order 10368.
+Line62gps.g: 2 records, 2 linearly primitive; maximum order 48.
+Line63gps.g: 2 records, 2 linearly primitive; maximum order 96.
+Line64gps.g: 2 records, 2 linearly primitive; maximum order 144.
+Line65gps.g: 13 records, 11 linearly primitive; maximum order 384.
+Line66gps.g: 2 records, 2 linearly primitive; maximum order 240.
+Line67gps.g: 2 records, 2 linearly primitive; maximum order 288.
+Line68gps.g: 3 records, 3 linearly primitive; maximum order 384.
+Line69gps.g: 2 records, 2 linearly primitive; maximum order 432.
+Line71gps.g: 16 records, 16 linearly primitive; maximum order 1152.
+Line72gps.g: 2 records, 2 linearly primitive; maximum order 1872.
+Line74gps.g: 7 records, 7 linearly primitive; maximum order 2304.
+Line75gps.g: 10 records, 10 linearly primitive; maximum order 7680.
+Line117gps.g: 9 records, 2 linearly primitive; maximum order 2304.
+Holt--Yang records: 402 linearly primitive; 16 linearly imprimitive.
+Holt--Yang GL-classes: 344 linearly primitive; 12 linearly imprimitive.
+Corrected GL-classes: 353 linearly primitive; 15 linearly imprimitive.
+Total corrected GL-classes: 368.
+
+LaTeX rows follow.  Columns:
+row/type; file; Table 4.1 records; file records;
+Table 4.1 maximum; calculated maximum.
+$1E^+$ & \texttt{Line1gpsm.g} & 12 & 12 & 15\,925\,248 & 15\,925\,248 \\
+$3$ & \texttt{Line3gps.g} & 40 & 40 & 559\,872 & 559\,872 \\
+$9E^+$ & \texttt{Line9gpsp.g} & 27 & 27 & 18\,432 & 18\,432 \\
+$9E^-$ & \texttt{Line9gpsm.g} & 71 & 71 & 165\,888 & 165\,888 \\
+$10$ & \texttt{Line10gps.g} & 22 & 22 & 331\,776 & 331\,776 \\
+$19E^+$ & \texttt{Line19gpsp.g} & 14 & 14 & 2\,304 & 2\,304 \\
+$19E^-$ & \texttt{Line19gpsm.g} & 9 & 9 & 640 & 640 \\
+$20$ & \texttt{Line20gps.g} & 24 & 22 & 4\,608 & 4\,608 \\
+$21E^+$ & \texttt{Line21gpsp.g} & 17 & 16 & 6\,912 & 6\,912 \\
+$22$ & \texttt{Line22gps.g} & 72 & 72 & 18\,432 & 18\,432 \\
+$23E^+$ & \texttt{Line23gpsp.g} & 4 & 4 & 11\,520 & 11\,520 \\
+$24$ & \texttt{Line24gps.g} & 5 & 5 & 13\,824 & 13\,824 \\
+$25$ & \texttt{Line25gps.g} & 4 & 4 & 18\,432 & 18\,432 \\
+$28$ & \texttt{Line28gps.g} & 3 & 3 & 55\,296 & 55\,296 \\
+$48$ & \texttt{Line48gps.g} & 7 & 7 & 1\,296 & 1\,296 \\
+$49$ & \texttt{Line49gps.g} & 4 & 4 & 1\,296 & 1\,296 \\
+$50$ & \texttt{Line50gps.g} & 2 & 2 & 2\,592 & 2\,592 \\
+$51$ & \texttt{Line51gps.g} & 8 & 8 & 12\,960 & 12\,960 \\
+$52$ & \texttt{Line52gps.g} & 1 & 1 & 3\,888 & 3\,888 \\
+$53$ & \texttt{Line53gps.g} & 10 & 3 & 10\,368 & 10\,368 \\
+$62$ & \texttt{Line62gps.g} & 2 & 2 & 48 & 48 \\
+$63$ & \texttt{Line63gps.g} & 2 & 2 & 96 & 96 \\
+$64$ & \texttt{Line64gps.g} & 2 & 2 & 144 & 144 \\
+$65$ & \texttt{Line65gps.g} & 13 & 13 & 384 & 384 \\
+$66$ & \texttt{Line66gps.g} & 2 & 2 & 240 & 240 \\
+$67$ & \texttt{Line67gps.g} & 2 & 2 & 288 & 288 \\
+$68$ & \texttt{Line68gps.g} & 3 & 3 & 384 & 384 \\
+$69$ & \texttt{Line69gps.g} & 2 & 2 & 432 & 432 \\
+$71$ & \texttt{Line71gps.g} & 16 & 16 & 1\,152 & 1\,152 \\
+$72$ & \texttt{Line72gps.g} & 2 & 2 & 1\,872 & 1\,872 \\
+$74$ & \texttt{Line74gps.g} & 7 & 7 & 2\,304 & 2\,304 \\
+$75$ & \texttt{Line75gps.g} & 10 & 10 & 7\,680 & 7\,680 \\
+$117$ & \texttt{Line117gps.g} & 9 & 9 & 2\,304 & 2\,304 \\

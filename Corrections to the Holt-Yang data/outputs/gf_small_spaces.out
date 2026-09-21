@@ -1,0 +1,259 @@
+GF(3)^2:
+  Row 62E-: the full prescribed-subgroup normaliser in GL(2,3) has order 
+48.  All 16 of its subgroup classes are examined; the five tests retain 
+2 qualifying groups.
+  Row 62E+: a conjugate of its full plus-type normaliser, of order 
+16
+ , lies in the minus-type normaliser examined above, so all its subgroup class\
+es have already been considered.
+  These give 2 distinct GL(2,
+3
+ )-classes, exactly the number represented by the corresponding Holt--Yang file\
+s.
+GF(5)^2:
+  Row 63: the full prescribed-subgroup normaliser in GL(2,5) has order 
+96.  All 24 of its subgroup classes are examined; the five tests retain 
+2 qualifying groups.
+  These give 2 distinct GL(2,
+5
+ )-classes, exactly the number represented by the corresponding Holt--Yang file\
+s.
+GF(7)^2:
+  Row 64E-: the full prescribed-subgroup normaliser in GL(2,7) has order 
+144.  All 29 of its subgroup classes are examined; the five tests retain 
+2 qualifying groups.
+  Row 64E+: the prescribed-subgroup normaliser in GL(2,7) has order 
+48; the normaliser-quotient calculations examine 
+4 solvable subgroup classes and yield 0 qualifying groups.
+  These give 2 distinct GL(2,
+7
+ )-classes, exactly the number represented by the corresponding Holt--Yang file\
+s.
+GF(11)^2:
+  Row 66E-: the full prescribed-subgroup normaliser in GL(2,11) has order 
+240.  All 32 of its subgroup classes are examined; the five tests retain 
+2 qualifying groups.
+  Row 66E+: a conjugate of its full plus-type normaliser, of order 
+80
+ , lies in the minus-type normaliser examined above, so all its subgroup class\
+es have already been considered.
+  These give 2 distinct GL(2,
+11
+ )-classes, exactly the number represented by the corresponding Holt--Yang fil\
+es.
+GF(13)^2:
+  Row 67: the full prescribed-subgroup normaliser in GL(2,13) has order 
+288.  All 53 of its subgroup classes are examined; the five tests retain 
+2 qualifying groups.
+  These give 2 distinct GL(2,
+13
+ )-classes, exactly the number represented by the corresponding Holt--Yang fil\
+es.
+GF(17)^2:
+  Row 68: the full prescribed-subgroup normaliser in GL(2,17) has order 
+384.  All 87 of its subgroup classes are examined; the five tests retain 
+3 qualifying groups.
+  These give 3 distinct GL(2,
+17
+ )-classes, exactly the number represented by the corresponding Holt--Yang fil\
+es.
+GF(19)^2:
+  Row 69E-: the full prescribed-subgroup normaliser in GL(2,19) has order 
+432.  All 54 of its subgroup classes are examined; the five tests retain 
+2 qualifying groups.
+  Row 69E+: a conjugate of its full plus-type normaliser, of order 
+144
+ , lies in the minus-type normaliser examined above, so all its subgroup class\
+es have already been considered.
+  These give 2 distinct GL(2,
+19
+ )-classes, exactly the number represented by the corresponding Holt--Yang fil\
+es.
+GF(7)^3:
+  Row 49: the full prescribed-subgroup normaliser in GL(3,7) has order 
+1296.  All 102 of its subgroup classes are examined; the five tests retain 
+4 qualifying groups.
+  These give 4 distinct GL(3,
+7
+ )-classes, exactly the number represented by the corresponding Holt--Yang file\
+s.
+GF(13)^3:
+  Row 50: the full prescribed-subgroup normaliser in GL(3,13) has order 
+2592.  All 166 of its subgroup classes are examined; the five tests retain 
+2 qualifying groups.
+  These give 2 distinct GL(3,
+13
+ )-classes, exactly the number represented by the corresponding Holt--Yang fil\
+es.
+GF(19)^3:
+  Row 52: the full prescribed-subgroup normaliser in GL(3,19) has order 
+3888.  All 216 of its subgroup classes are examined; the five tests retain 
+1 qualifying groups.
+  These give 1 distinct GL(3,
+19
+ )-classes, exactly the number represented by the corresponding Holt--Yang fil\
+es.
+GF(3)^4:
+  Row 19E+: the full prescribed-subgroup normaliser in GL(4,3) has order 
+2304.  All 310 of its subgroup classes are examined; the five tests retain 
+21 qualifying groups.
+  Row 19E-: the full prescribed-subgroup normaliser in GL(4,3) has order 
+3840.  All 221 of its subgroup classes are examined; the five tests retain 
+19 qualifying groups.
+  Row 65: the full prescribed-subgroup normaliser in GL(4,3) has order 
+384.  All 254 of its subgroup classes are examined; the five tests retain 
+16 qualifying groups.
+  Row 104E-: the full prescribed-subgroup normaliser in GL(4,3) has order 
+1152.  All 317 of its subgroup classes are examined; the five tests retain 
+31 qualifying groups.
+  Row 104E+: a conjugate of its full plus-type normaliser, of order 
+384
+ , lies in the minus-type normaliser examined above, so all its subgroup class\
+es have already been considered.
+  Row 19 has 17 classes: 13 contain a normal plus-type extraspecial subgroup, \
+six contain a normal minus-type extraspecial subgroup, and two contain both.
+  These give 24 distinct GL(4,
+3
+ )-classes, exactly the number represented by the corresponding Holt--Yang file\
+s.
+GF(5)^4:
+  Row 20: the full prescribed-subgroup normaliser in GL(4,5) has order 
+46080.  All 1313 of its subgroup classes are examined; the five tests retain 
+24 qualifying groups.
+  Row 71: the full prescribed-subgroup normaliser in GL(4,5) has order 
+11520.  All 983 of its subgroup classes are examined; the five tests retain 
+26 qualifying groups.
+  Row 105: the full prescribed-subgroup normaliser in GL(4,5) has order 
+11520.  All 983 of its subgroup classes are examined; the five tests retain 
+26 qualifying groups.
+  Of the 24 qualifying classes in the row-20 normaliser, exactly 22 contain a \
+normal extraspecial subgroup of order 32; these are the 22 Line20 classes.  Th\
+e other two are Line71 records 10 and 16, of orders 288 and 576.
+  These give 38 distinct GL(4,
+5
+ )-classes, exactly the number represented by the corresponding Holt--Yang file\
+s.
+GF(7)^4:
+  Row 21E+: the full prescribed-subgroup normaliser in GL(4,7) has order 
+6912.  All 647 of its subgroup classes are examined; the five tests retain 
+17 qualifying groups.
+  Row 21E-: the full prescribed-subgroup normaliser in GL(4,7) has order 
+11520.  All 447 of its subgroup classes are examined; the five tests retain 
+0 qualifying groups.
+  Row 74: the full prescribed-subgroup normaliser in GL(4,7) has order 
+2304.  All 732 of its subgroup classes are examined; the five tests retain 
+7 qualifying groups.
+  Row 106E-: the full prescribed-subgroup normaliser in GL(4,7) has order 
+48384.  All 1487 of its subgroup classes are examined; the five tests retain 
+17 qualifying groups.
+  Row 106E+: the prescribed-subgroup normaliser in GL(4,7) has order 
+16128; the normaliser-quotient calculations examine 
+147 solvable subgroup classes and yield 0 qualifying groups.
+  Of the 17 qualifying classes in the row-21 plus-type normaliser, exactly 16 \
+contain a normal plus-type extraspecial subgroup of order 32; these are the 16\
+ Line21 classes.  The other class is Line74 record 4.  Line21 record 11 and Li\
+ne74 record 7 represent the same class.
+  These give 22 distinct GL(4,
+7
+ )-classes, exactly the number represented by the corresponding Holt--Yang file\
+s.
+GF(11)^4:
+  Row 23E+: the full prescribed-subgroup normaliser in GL(4,11) has order 
+11520.  All 620 of its subgroup classes are examined; the five tests retain 
+4 qualifying groups.
+  Row 23E-: the full prescribed-subgroup normaliser in GL(4,11) has order 
+19200.  All 445 of its subgroup classes are examined; the five tests retain 
+0 qualifying groups.
+  Row 76: the row-specific semilinear overgroup has order 5760.  All 
+1052 of its subgroup classes are examined; the five tests retain 
+0 qualifying groups.
+  Row 107E-: the full prescribed-subgroup normaliser in GL(4,11) has order 
+316800.  All 1964 of its subgroup classes are examined; the five tests retain 
+0 qualifying groups.
+  Row 107E+: a conjugate of its full plus-type normaliser, of order 
+105600
+ , lies in the minus-type normaliser examined above, so all its subgroup class\
+es have already been considered.
+  These give 4 distinct GL(4,
+11
+ )-classes, exactly the number represented by the corresponding Holt--Yang fil\
+es.
+GF(13)^4:
+  Row 24: the prescribed-subgroup normaliser in GL(4,13) has order 
+138240; the normaliser-quotient calculations examine 
+201 solvable subgroup classes and yield 5 qualifying groups.
+  Row 78: the row-specific semilinear overgroup has order 
+8064; the quotient calculations examine 
+340 solvable subgroup classes and yield 0 qualifying groups.
+  Row 108: the prescribed-subgroup normaliser in GL(4,13) has order 
+628992; the normaliser-quotient calculations examine 
+1225 solvable subgroup classes and yield 0 qualifying groups.
+  These give 5 distinct GL(4,
+13
+ )-classes, exactly the number represented by the corresponding Holt--Yang fil\
+es.
+GF(17)^4:
+  Row 25: the prescribed-subgroup normaliser in GL(4,17) has order 
+184320; the normaliser-quotient calculations examine 
+338 solvable subgroup classes and yield 4 qualifying groups.
+  Row 80: the row-specific semilinear overgroup has order 
+13824; the quotient calculations examine 
+469 solvable subgroup classes and yield 0 qualifying groups.
+  Row 109: the prescribed-subgroup normaliser in GL(4,17) has order 
+1880064; the normaliser-quotient calculations examine 
+1947 solvable subgroup classes and yield 0 qualifying groups.
+  These give 4 distinct GL(4,
+17
+ )-classes, exactly the number represented by the corresponding Holt--Yang fil\
+es.
+GF(2)^6:
+  Row 48: the full prescribed-subgroup normaliser in GL(6,2) has order 
+1296.  All 96 of its subgroup classes are examined; the five tests retain 
+7 qualifying groups.
+  These give 7 distinct GL(6,
+2
+ )-classes, exactly the number represented by the corresponding Holt--Yang file\
+s.
+GF(3)^6:
+  Row 72E-: the full prescribed-subgroup normaliser in GL(6,3) has order 
+269568.  All 2197 of its subgroup classes are examined; the five tests retain 
+2 qualifying groups.
+  Row 111E-: its prescribed subgroup and normaliser are conjugate to those of \
+the earlier row recorded above, so no second enumeration is needed.
+  Row 111E+: a conjugate of its full plus-type normaliser, of order 
+89856
+ , lies in the minus-type normaliser examined above, so all its subgroup class\
+es have already been considered.
+  Row 72E+: its prescribed subgroup and normaliser are conjugate to those of t\
+he earlier row recorded above, so no second enumeration is needed.
+  These give 2 distinct GL(6,
+3
+ )-classes, exactly the number represented by the corresponding Holt--Yang file\
+s.
+GF(5)^6:
+  Row 53: the full prescribed-subgroup normaliser in GL(6,5) has order 
+10368.  All 657 of its subgroup classes are examined; the five tests retain 
+3 qualifying groups.
+  Row 77: the row-specific semilinear overgroup has order 8928.  All 
+106 of its subgroup classes are examined; the five tests retain 
+0 qualifying groups.
+  Row 112: the prescribed-subgroup normaliser in GL(6,5) has order 
+35712000; the 44 normaliser quotients contain 
+4272 solvable subgroup classes in total and yield 0 qualifying groups.
+  These give 3 distinct GL(6,
+5
+ )-classes, exactly the number represented by the corresponding Holt--Yang file\
+s.
+GF(2)^12:
+  Row 51: the full prescribed-subgroup normaliser in GL(12,2) has order 
+77760.  All 1535 of its subgroup classes are examined; the five tests retain 
+8 qualifying groups.
+  Row 115: its prescribed subgroup and normaliser are conjugate to those of th\
+e earlier row recorded above, so no second enumeration is needed.
+  These give 8 distinct GL(12,
+2
+ )-classes, exactly the number represented by the corresponding Holt--Yang file\
+s.
+All 48 row-and-type calculations, covering 36 parameter rows on the twenty sma\
+ll spaces treated here, have been completed; the per-space unions agree exactl\
+y with the classes represented by the corresponding Holt--Yang files.

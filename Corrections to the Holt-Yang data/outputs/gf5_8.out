@@ -1,0 +1,4 @@
+Row 10: enumerating subgroups above the symplectic-type subgroup S
+Row 10: enumerating the two extraspecial-subgroup normaliser quotients
+Rows 28, 84 and 118: enumerating the two extraspecial-subgroup orbits
+Rows 10, 28, 84 and 118 yield 25 distinct GL(8,5)-classes.  The 22 Line10 and 3 Line28 records account for all of them; rows 84 and 118 introduce no further class.

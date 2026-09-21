@@ -1,0 +1,17 @@
+Verified S3 wr S4.
+Verified (5:4) wr S2.
+Verified B1(1,4).
+Verified G_B2(3,1;GSp2(3)) x S3.
+Verified 17:8.
+Verified (5:4) x (S3 wr S2).
+Verified (7:6) x S3.
+Verified pair(S3 wr S2).
+Verified pair(GammaL(1,16)).
+Verified (S3 wr S2) x (S3 wr S2).
+Verified (S3 wr S2) x (5:4).
+Verified (5:4) x (5:4).
+Verified S3 x (7:6).
+Verified S3 x ((5:4) x S3).
+Verified S3 x (S3 wr S3).
+Verified S3 x G_B2(3,1;GSp2(3)).
+The row-2 calculation is complete: the full inverse image of each of the sixteen covering groups has a regular orbit on GF(5)^16.

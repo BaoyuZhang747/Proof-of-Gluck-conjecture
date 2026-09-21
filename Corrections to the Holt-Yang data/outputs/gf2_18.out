@@ -1,0 +1,15 @@
+Holt--Yang groups on GF(2)^18 read: 40
+Extraspecial subgroup E:  |E| = 243,  |Z(E)| = 3,  exponent = 3
+The normaliser of E in GL(18,2) has order 25194240.
+Holt--Yang groups conjugated into the normaliser of E in GL(18,2): 40/40
+The quotient N/E has order 103680 and is not solvable.
+Subgroup classes of Q: 492
+Solvable subgroup classes of Q: 473
+Groups meeting all five criteria: 40
+The 492 subgroup classes of N/E contain 473 solvable classes.  Exactly 40 lift\
+s satisfy the five conditions, and direct 18-dimensional matrix equalities giv\
+e a bijection with the 40 Line3 records.
+The two covering overgroups for the order-27 normal subgroup yield nine lifts \
+satisfying the five conditions.  Exact matrix equalities identify all nine wit\
+h seven of the 40 classes represented in Line3gps.g.  Thus the row-55 and row-\
+116 calculations produce no further class on GF(2)^18.
